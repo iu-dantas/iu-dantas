@@ -2,7 +2,7 @@
 
 **`ADS Student (Front-End Dev)`**
 
-Olá! Sou Iury Dantas, um desenvolvedor apaixonado por tecnologia e atualmente cursando Análise de Sistemas no Fam - Centro Universitário das Américas. Me especializo em Desenvolvimento Web e tenho experiência avançada em HTML e CSS. Além disso, estou aprofundando meus conhecimentos em Bootstrap, React e JavaScript.
+Olá! Sou Iury Dantas, um desenvolvedor apaixonado por tecnologia e atualmente cursando Análise de Sistemas no Fam - Centro Universitário das Américas. Me especializo em Desenvolvimento Web e tenho experiência em HTML e CSS no momento. Além disso, estou iniciando meus estudos em Bootstrap, React e JavaScript.
 
 ### ⚙️ Linguagens e Ferramentas:
 
