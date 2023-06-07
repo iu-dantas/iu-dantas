@@ -4,6 +4,8 @@
 
 Olá! Sou Iury Dantas, um desenvolvedor apaixonado por tecnologia e atualmente cursando Análise de Sistemas no Fam - Centro Universitário das Américas. Me especializo em Desenvolvimento Web e tenho experiência em HTML e CSS no momento. Além disso, estou iniciando meus estudos em Bootstrap, React e JavaScript.
 
+Estudando Bootstrap no momento
+
 ### ⚙️ Linguagens e Ferramentas:
 
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
