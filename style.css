@@ -1,0 +1,132 @@
+h4 {
+    color: #000;
+    text-align: center;
+    font-family: Poppins;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+.blue-card {
+    width: 287.408px;
+    height: 369.413px;
+    flex-shrink: 0;
+    border-radius: 40px;
+    background: #76BDFE;
+}
+
+.blue-circle {
+    position: relative;
+    top: 35.1px;
+    left: 60px;
+    width: 170.411px;
+    height: 170.411px;
+    flex-shrink: 0;
+    background: #ADD6FC;
+    border-radius: 100px;
+}
+
+.blue-card img {
+    position: absolute;
+    top: 90px;
+    left: 60px;
+}
+
+.blue-name-container {
+    position: relative;
+    top: 20px;
+    left: 25px;
+    width: 230.758px;
+    height: 36.712px;
+    flex-shrink: 0;
+    border-radius: 15px;
+    border: 1px solid #FFF;
+    background: #ADD6FC;
+ }
+
+ .blue-name-container h4 {
+    width: 164.678px;
+    height: 20.978px;
+    flex-shrink: 0;
+    position: relative;
+    top: -12px;
+    left: -50px;
+ }
+
+ .blue-type {
+    position: relative;
+    bottom: 25px;
+    left: 120px;
+    bottom: ;
+    width: 52.445px;
+    height: 14.694px;
+    flex-shrink: 0;
+    border-radius: 3px;
+    border: 1px solid #FFF;
+    background: #ADD6FC;
+ }
+
+ .blue-type p {
+    position: relative;
+    bottom: 8px;
+    color: #000;
+    text-align: center;
+    font-family: Poppins;
+    font-size: 10px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+ }
+
+ .blue-number {
+    position: relative;
+    top: -160px;
+    left: 200px;
+ }
+
+ .blue-atk {
+    position: relative;
+    left: 30px;
+    width: 81.814px;
+    height: 14.685px;
+    flex-shrink: 0;
+    border-radius: 15px;
+    border: 1px solid #FFF;
+    background: #ADD6FC;   
+    margin: 10px; 
+ }
+
+ .blue-atk p {
+    position: relative;
+    bottom: 5px;
+    color: #000;
+    text-align: center;
+    font-family: Inter;
+    font-size: 8px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+ }
+
+ .blue-sinopse {
+    position: relative;
+    bottom: 80px;
+    left: 150px;
+    width: 113.281px;
+    height: 90.037px;
+    flex-shrink: 0;
+    border-radius: 8px;
+    border: 1px solid #FFF;
+    background: #ADD6FC;
+ }
+
+ .blue-sinopse p {
+    margin: 10px;
+    color: #000;
+    font-family: Poppins;
+    font-size: 8px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+ }
